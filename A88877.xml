@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The independants militarie entertainment. Or, Certaine reasons and arguments why independants ought not only to be admitted into the army raised for defence of church and state, but also both by law of God, nature, and nations, are required to put their hands to the plough of the kingdome. Together with the answering of such grand objections as tend to the contrary. / By W.L. Licensed, entered, and printed according to order.</title>
+            <author>W. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88877</idno>
+            <idno type="STC">Wing L88</idno>
+            <idno type="STC">Thomason E278_28</idno>
+            <idno type="STC">ESTC R200023</idno>
+            <idno type="EEBO-CITATION">99860825</idno>
+            <idno type="PROQUEST">99860825</idno>
+            <idno type="VID">112950</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88877)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112950)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 46:E278[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The independants militarie entertainment. Or, Certaine reasons and arguments why independants ought not only to be admitted into the army raised for defence of church and state, but also both by law of God, nature, and nations, are required to put their hands to the plough of the kingdome. Together with the answering of such grand objections as tend to the contrary. / By W.L. Licensed, entered, and printed according to order.</title>
+                  <author>W. L.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Overton, and are to be sold at his shop in Popes-head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Recruiting, enlistment, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112950:1" rendition="simple:additions"/>
+            <p>THE INDEPENDANTS MILITARIE ENTERTAINMENT.</p>
+            <p>OR, Certaine Reaſons and Arguments why Independants ought not only to be admitted in<g ref="char:EOLhyphen"/>to the Army raiſed for defence of Church and State, but alſo both by Law of God, Nature, and Nations, are required to put their hands to the Plough of the Kingdome.</p>
+            <p>
+               <hi>TOGETHER</hi> With the anſwering of ſuch grand Obje<g ref="char:EOLhyphen"/>ctions as tend to the contrary.</p>
+            <p>By <hi>W. L.</hi>
+            </p>
+            <p>Licenſed, Entered, and Printed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Overton,</hi> and are to be ſold at his Shop in Popes-head Alley. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112950:2"/>
+            <head>THE INDEPENDANTS MILITARIE <hi>ENTERTAJNMENT.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Ince it hath pleaſed God to put into the heart of, and to inable our ever honored Parliament to new forme and conſtitute the armies raiſed for the de<g ref="char:EOLhyphen"/>fence of themſelves and Kindom, by which means conſequently many Malignant and diſaffected inſtruments, formerly imployed, are outed, whoſe ſpirits daily ſpeake out their former diſaf<g ref="char:EOLhyphen"/>fection and profane inſides, the Devill alſo be<g ref="char:EOLhyphen"/>gins to bee very buſie to blow the coal of con<g ref="char:EOLhyphen"/>tention, and to ſowe the ſeed of ſtrife and diviſion, amongſt ſuch who are yet Ingaged in the worke, and who under God are like to be very Inſtrumentall to put a timely end to our unhappy troubles: And there<g ref="char:EOLhyphen"/>fore labour might and main to beget ſuch a diſaffection betweene them, to wit, the Preſbyterian and Independant party, as if the entertainment of both in the Armie were inconſiſtent with the well being, and ſucceſſe of it. Now ſeeing that both of them have ever been ingaged in the worke, ſince the beginning, and that party ſo much poynted at, no whit behinde any other, either in faithfulneſſe or courage; I thought good to declare to the publique, that Independant party, ſo much ſtumbled at, are not only very precious Inſtruments to promote the preſent military affairs: but are no waies to be diſcountenanced, or thir aſſiſtance and brotherly helpe declined for theſe reaſons enſuing.</hi>
+            </p>
+            <p>FIrſt, that our diviſions are the enemies hopes and our owne hurt, and they daily endeavor to diſunite us, that they may have the greater advantage upon us.</p>
+            <p n="2">2. Thoſe our friends whoſe abſence we would ſo willingly wave, are neither Heathens nor Turkes, but men profeſſing the ſame Religion with us, having the ſame God, the ſame Chriſt, of the ſame faith, partakers of the ſame hope, borne with us in Baptiſme in the ſame Covenant, onely differing in and about Cir<g ref="char:EOLhyphen"/>cumſtance, not the ſubſtance of Gods Worſhip, not any fundamen<g ref="char:EOLhyphen"/>tall points of religion.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:112950:2"/> 3. If Papiſts, Malignants, and deſperate Delinquents are the common adverſaries of the Kingdome, theſe men of all other are moſt likely to be reall in their undertakings againſt them, whoſe principles are ſo utter contrary to them, they being formerly the objects of our Prelats perſecution, for that they knew them utter enemies to Prelacie, Poperie, and profaneneſſe.</p>
+            <p n="4">4. They have through Gods aſſiſtance behaved themſelves in the Field, and in the face of the Enemie very gallantly, as the com<g ref="char:EOLhyphen"/>mon adverſarie himſelfe confeſſeth and certainly if it be a received tenent among Commanders to entertaine fighting men, although otherwiſe diſſolute, and prophane, certainly theſe men that are con<g ref="char:EOLhyphen"/>ſciencious, that abhor oathes, blaſphemies, and prophaneneſſe, ſhould not only be admitted, but required and deſired to aſſiſt the State, if for nothing elſe, yet becauſe they will fight.</p>
+            <p n="5">5. It hath been too too apparant that divers profeſſing them<g ref="char:EOLhyphen"/>ſelves Proteſtants at large, as our adverſaries themſelves do, have proved very perfidious, who having taken up armes for their owne ends have made uſe of their beſt opportunities to attain them, by betraying their truſt, and although we have had too many experi<g ref="char:EOLhyphen"/>ments of this kinde, yet I never heard of any, uſually called Inde<g ref="char:EOLhyphen"/>pendant, ſince the war began, that proved perfidious.</p>
+            <p n="6">6. Conſider our Enemis are accounted ould Souldiers and Po<g ref="char:EOLhyphen"/>lititians, and they tell us it is lawfull for the King to call to his aſſiſtance papiſts out of all Countries, yea and the moſt deſperate wretches in the world, nay and our Malignants will tell you hee doth well in receiving any that will ſticke to him in his neceſſitie, although by experiece, they are ſuch as indeavour both the ruine of himſelf and kingdome, and whoſe tenents are ſo utterly in<g ref="char:EOLhyphen"/>conſiſtent, with the wel-being or the being of the Church or King<g ref="char:EOLhyphen"/>dome, that a man may ſafer live with a Turke, a Jewe, a Pagan, then with a Papiſt, and ſhall we be ſo voide of reaſon to decline the helpe of our faithfull friends, of whoſe courage and zeale, we have had ſufficient teſtimonie? Let us not ſuffer the children of this world, to be alwaies wiſer then the children of light eſpecial<g ref="char:EOLhyphen"/>ly in this Generation wherein ſuch abundance of light is diſ<g ref="char:EOLhyphen"/>covered.</p>
+            <p n="7">7. It is diſpleaſing to God when men of one and the ſame reli<g ref="char:EOLhyphen"/>gion, whoſe judgements differ in point of Ceremonie, not ſub<g ref="char:EOLhyphen"/>ſtance, are diſunited in affection, and ſo either decline, or denie each other aſſiſtance, and indeed we can expect little peace in the
+<pb n="3" facs="tcp:112950:3"/>Kingdome, ſo long as we have wars and fightings in our ſpirits, one againſt another, God who is our wiſe Father, will laſh his children if they fall out one with another, beleeve it he will make a third man among them, till they agree better.</p>
+            <p n="8">8. The cauſe of God and Kingdome lyes at ſtake, and they as well as others are bound in Conſcience to helpe againſt the Com<g ref="char:EOLhyphen"/>mon adverſaries, and ſhall we tye their hands behinde them, in oppoſition to our owne aſſiſtance, not ſuffering them to helpe the Lord againſt the mighty? ſhall <hi>Herod</hi> and <hi>Pilate</hi> become friends to Crucifie Chriſt, and Chriſtians ſuffer themſelves to become a prey to the Adverſarie rather then mutually to be helpefull?</p>
+            <p n="9">9. They are not truly called Independant, otherwiſe then to diſtinguiſh them from the Epiſcopal and Presbyterians, for no true Church is independant, neither know we any ſuch in New-Eng<g ref="char:EOLhyphen"/>land, or elſewhere that wholly decline the brotherly advice and aſ<g ref="char:EOLhyphen"/>ſiſtance of the Neighbouring Churches in Points of difficultie ei<g ref="char:EOLhyphen"/>ther in Doctrine or diſcipline.</p>
+            <p n="10">10. What occaſion of ſlighting have they given? have they not bin active and zealous to promote the affaires of the Kingdome, both with their perſons and purſes? or do we emulate and envy them for that they are more zealous then our ſelves, although in conſcience they are bound to it, knowing a heavie curſe hangs over the heads of ſuch as do the work of the Lord deceitfully, or negligently.</p>
+            <p n="11">11. Me thinks above all men our brethren the Scots, ſhould be ſo far from diſaffecting them, that they ſhould joyne heart and hand with them, for theſe men were eſpecially thoſe that in the day of their trouble ſtuck cloſeſt to them, although at that time not bap<g ref="char:EOLhyphen"/>tized into the Name of Independants; Prelates were not acquainted with any ſuch titles.</p>
+            <p n="12">12. Herein we ſhall uſe the ſame method to ruine our ſelves that the enemy doth to deſtroy us: they fight againſt us under the no<g ref="char:EOLhyphen"/>tion of Browniſts, Anabaptiſts, Separatiſts, and Roundheads, un<g ref="char:EOLhyphen"/>der which termes they comprehend all not ſo vilde as themſelves: and we quarrell one with another under the notion of Presbyte<g ref="char:EOLhyphen"/>rian, Independant, nay we uſe the ſame tone of Browniſts, Ana<g ref="char:EOLhyphen"/>baptiſts, Sectaries, &amp;c. condemning all not of their owne opinion, as men extremely prejudiciall in their very aſſiſtance of the State, although the moſt godly and learned in the Kingdome, viz. the Synod, dare not condemne them. Nay further in ſome ſenſe I may
+<pb n="4" facs="tcp:112950:3"/>truly ſay, we are all Independants the Kingdome over: for ever ſince Epiſcopacy was condemned and made ſhorter by the head, no other diſcipline being ſetled in the Church, wherein the great difference lyes, every man doth that that is right in his own eyes, and how long it may be thus who knowes?</p>
+            <p n="13">13. If we would have them caſhered the Army, why not alſo caſt out of the Kingdome? beleeve it, he that is not fit to be tru<g ref="char:EOLhyphen"/>ſted in the Army, is in theſe dangerous times as unfit to live in a Commonweale: he that is not with us is againſt us, and he that is not thought fit to aſſiſt us, muſt conſequently be thought as unfit to live amongſt us, eſpecially ſuch men as hate neutralizing: Yet I beleeve neither Parliament or Synod have any thoughts to deny them the liberty of free-borne ſubjects: nor doe they, I beleeve, at all doubt of their honeſty: But as Independants accompt the Presbyterian godly, ſo the Presbyterian accompts alſo of the In<g ref="char:EOLhyphen"/>dependant. And if they be found fit to live in the Kingdome, and men approved godly by thoſe beſt able to judge, why ſhall wee condemne them for unprofitable and unuſefull members? And al<g ref="char:EOLhyphen"/>though doubtleſſe there are ſome, nay too too many, that thinke if Independancy be tolerated in the Kingdome, it will be like <hi>Moſes</hi> rod, &amp;c. and therefore would gladly have it caſt out of the kingdome. Truly I ſay this ſhould ſatisfie that it was <hi>Moſes</hi> rod that devoured the reſt, and the reſt were but the effects of inchant<g ref="char:EOLhyphen"/>ments. And if we ſhall caſt out Independants for their conſcience, ſake, by the ſame ground we may baniſh all Religion.</p>
+            <p n="14">14. They are men knowne to be lovers of Religion and Law all of them, and as they have a birth-right in both they are bound both by the Law of God and Man, of Nature and Nations, to lend their aſſiſtance when theſe are indangered. Beſides, they have both lives and eſtates to ſave or loſe as well as others.</p>
+            <p n="15">15. Againe, we have more need to encourage them to joyne with us, then decline their helpe, many of them already having laid downe Armes in reference to the Covenant, and many never would take up Armes to fight for any cauſe, or upon any termes at all, holding it unlawfull: theſe then that are willing, reſolved, and men ſufficiently knowne for their fidelity and courage, ſhould rather be incouraged, then any way diſcountenanced.</p>
+            <p n="16">16. Conſider who they are that are principall oppoſers of In<g ref="char:EOLhyphen"/>dependants, and would ſo gladly have them outed the Army, cer<g ref="char:EOLhyphen"/>tainly,
+<pb n="5" facs="tcp:112950:4"/>none that are truly godly, whatſoever they pretend: for it is not that they are Independant, but that they are godly they are en<g ref="char:EOLhyphen"/>vied: it is the power of godlineſſe aimed at: and he that is now an enemy to Independants, were there not one of them left in the Army, would be as arch an adverſary to Presbyterians, ſo farre as the power of godlineſſe is held forth in their converſation: this I am confident of, if men will ſweare and ſwill, drinke and drab, as thoſe that would have ſway in the Armies have too long done, and would ſtill, which can neither ſtand with the power of godlineſſe or common honeſty; let them be Independant, Presbyteriall, Pre<g ref="char:EOLhyphen"/>laticall, or Popiſh, all is one, Birds of a feather would flock toge<g ref="char:EOLhyphen"/>ther. Not that I condemn all now by courſe diſmiſſed their com<g ref="char:EOLhyphen"/>mands and employments, for I know many choice, worthy, gal<g ref="char:EOLhyphen"/>lant Gentlemen are outed by meanes of the new Modell; I onely point at the prophane Atheiſticall party, for whoſe ſakes the Army hath beene new formed: and who are the only enemies of Inde<g ref="char:EOLhyphen"/>pendants, and the power of godlineſſe, in whomſoever it is.</p>
+            <p>
+               <label>Q.</label> But theſe Independants will not take the Covenant, what ſhould they doe amongſt us? why ſhall we truſt them?</p>
+            <p>
+               <label>A.</label> Many, nay moſt of them have or will take it, onely ſome few decline it in point of conſcience, queſtioning the lawfulneſſe of preſſing it upon them with all its circumſtances; yet men re<g ref="char:EOLhyphen"/>ſolved without any ſuch tye, having a principle within them lea<g ref="char:EOLhyphen"/>ding them to be true to their truſt, and no whit the more back<g ref="char:EOLhyphen"/>ward in their aſſiſtance. And as a worthy Gentleman ſaid once concerning forcing men to our publique Aſſemblies, by reaſon of a complaint made againſt ſuch as uſed private meetings on the Lords day, quoth he, let us force them to Church that make no conſcience at all, rather then force thoſe that withdraw out of tenderneſſe. So I ſay concerning the Covenant, although many thouſands both godly and conſciencious have taken it, and who doubtleſſe will to their utmoſt endeavour to keepe it, yet there are many thouſands in the Kingdome that make no conſcience at all what they ſweare, nor ever care to keep any Oath or Covenant whatſoever: miſts and milſtones are alike: it is good to impoſe it upon ſuch with reaſonable inſtruction concerning it; but let us take heed of preſſing it upon a tender conſcience: ſay not, How ſhall we truſt them? for he that feares an Oath feares God, and let him alone with his conſcience, he will wrong no man, he will
+<pb n="6" facs="tcp:112950:4"/>neither kill his King, nor poyſon his Prince, nor blow up a Parliament: his tenents are no way diſtructive to Church or State; nay though he ſweare not, yet he will aſſiſt the kingdome to the utmoſt of his ability: theſe take heed of offending one of thoſe little ones that deſire to walke according to their light.</p>
+            <p>
+               <label>Q.</label> But they are principall cauſers of diviſions in the Army, by preaching and teaching they know not what: they muſt be all Preachers forſooth, although they have neither call to the Mini<g ref="char:EOLhyphen"/>ſtry, nor parts to diſcharge that function; hereby they poyſon a<g ref="char:EOLhyphen"/>bundance of ignorant people with their errors, and wrong Scrip<g ref="char:EOLhyphen"/>tures by their miſ-interpretations.</p>
+            <p>
+               <label>A.</label> For that generall charge of being cauſers of diviſions, it is no more then what formerly even from the beginning to this day hath been laid upon the back of Religion, therefore was <hi>Eliah</hi> counted the troubler of Iſrael, <hi>Paul</hi> a ſower of ſedition: and in<g ref="char:EOLhyphen"/>deed the profeſſion of Chriſt hath ever beene cauſe of diviſion, therefore he ſaith he came to ſet the father againſt the ſon, the mo<g ref="char:EOLhyphen"/>ther againſt the daughter, &amp;c. and it is neceſſary ſuch offences ſhould be, that the approved may be knowne: fleſh and ſpirit, light and darkneſſe, godlineſſe and impiety muſt needs be divided; and thus it hath been, and ſo will be to the end of the world in all Chriſtian Kingdomes, Churches, nay and perſons too, the fleſh luſting and warring againſt the ſpirit: they are alwaies contrary.</p>
+            <p>Indeed for that men of weak or no abilities, without any war<g ref="char:EOLhyphen"/>rant or call from God or man, do prepoſterouſly thruſt themſelves into publique diſpenſation of ordinances, this is to be rather be<g ref="char:EOLhyphen"/>wailed then pleaded for; and I doubt not but that the Parliament and Aſſembly both will take care to prevent this enormity, and to furniſh our Armies with able conſcencious Preachers, and ſo alſo prevent the great miſchief that often neceſſity brings with it: yet I preſume not one of forty doe take upon them publique admini<g ref="char:EOLhyphen"/>ſtrations, and why ſhould we condemne all the reſt for thoſe? as well may we cry downe all godly painfull Miniſters, by reaſon ſome were ignorant, ſome prophane, ſome ſuperſtitious, many of them very ſots, fitter to ſerve ſwine then ſeed the flock of Chriſt: yet I hope we reverence the godly learned of them; and ſo though ſome few forget themſelves in this, making an Idoll of Ignorance, as too many of us doe of Learning, yet take heed of condemning the reſt that are both wiſe and godly.</p>
+            <pb n="7" facs="tcp:112950:5"/>
+            <p> Neither muſt I condemn any man for exerciſing his talent in the place where God hath ſet him, to his glory, but with <hi>Moſes,</hi> hear<g ref="char:EOLhyphen"/>tily wiſh that all the Lords people were Prophets, inabled for his worke, knowing every Maſter of a Family, every Commander in an armie, according to his light received, and the charge com<g ref="char:EOLhyphen"/>mitted to him, ought to improve it to Gods glory, and the bene<g ref="char:EOLhyphen"/>fit of thoſe related to him: no man ought to hide his talent in his napkin, or put his candle under a buſhell, but to pray with and for thoſe committed to his charge, to exhort and inſtruct them in the waies of God, provided they deliver known practicall, and received truths, &amp; meddle not in things too high for them, que<g ref="char:EOLhyphen"/>ſtions and diſputations engendring controverſie, rather then tending to edification, leaving things more darke and doubtfull to the godly: learned and called by God and man to publique admi<g ref="char:EOLhyphen"/>niſtrations, know that the Scriptures are of that latitude that a Lamb may wade, and yet the Elephant ſwim in their Ocean, ſo ſhall men doe much good in their places, and may by their praiets, teares, and Chriſtian duty wraſtle with God, as uſefully and profi<g ref="char:EOLhyphen"/>taby as fight with an enemy, for the peace and welfare of Church and Commonweale: thus ſhall wee build with one hand, and fight with the other. Let us therefore bleſſe God for ſuch Com<g ref="char:EOLhyphen"/>manders and Souldiers, and not envy them for their zeale.</p>
+            <p>But above all let it be our ſhame, that ſwearing, blaſphemy, drunkenneſſe, and all maner of prophaneneſſe, things out of queſti<g ref="char:EOLhyphen"/>on unlawfull and ſinfull, are ſuffered in our Armies, while ſuch pra<g ref="char:EOLhyphen"/>ctices as tend to the power of godlineſſe are oppoſed and oppug<g ref="char:EOLhyphen"/>ned: and who ever thou art that art an enemy to the Indepen<g ref="char:EOLhyphen"/>dants entertainment in the Army, be ſilent till all prophane ones are caſhiered, and eſpecially prophaneneſſe out of thy owne heart and converſation caſt out: plucke out thy beame firſt, and then thou wilt ſee more clearly the mote: if this courſe were taken, few or none would either ſpurne at the power of godlineſſe, or de<g ref="char:EOLhyphen"/>ſpiſe the day of ſmall things. To conclude know this, he that hath the leaſt ſpark of true grace in his heart, will not envie the power of godlineſſe in any mans converſation whatſoever.</p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
